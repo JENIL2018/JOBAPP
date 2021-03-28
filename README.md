@@ -15,20 +15,23 @@ The online recruitment sites have witnessed exponential growth since the 2000s. 
 Indeed has become the top-rated job and recruitment portal across the world. The platform connects over 250 million unique visitors every month by allowing them unrestrained access to its large job database.
 Another interesting report shows that the Indeed mobile app has been downloaded 46 million times globally, which includes over 20 million downloads in the U.S. alone. Over 50% of the platform’s traffic now comes from mobile devices.
 
-Challenge we ran into : work into time bounded competition
+Challenge we ran into : working into time bounded competition
                                              
                                             
 
 Accomplishment we are proud of : To make an APP with good Interface and that’s more user friendly
  What we learned:  Time management
+                    Team work 
+                    how to connect the databases
+                    
                                      
                                         
                                      
 What’s next: To add resume builder
-                         Online interview facilities 
+             Online interview facilities 
 Built with: 
-.java.xml CSS PHP HTML 
-hosting
-jeliohost
-phpmyadmin
+.java.xml ,CSS, PHP, HTML, 
+hosting,
+jeliohost,
+phpmyadmin.
 
